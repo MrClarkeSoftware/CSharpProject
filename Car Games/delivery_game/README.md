@@ -1,5 +1,6 @@
-Delivery Shooter Game:
-Nathan, Joel, Caden, Isaac, Angelica
+# Delivery Shooter Game
+
+### Team Members: Nathan, Joel, Caden, Isaac, Angelica
 
 - 2D
 - deliver (item) in a certain amount of time
