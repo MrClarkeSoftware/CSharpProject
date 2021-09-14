@@ -5,5 +5,6 @@ Nathan, Joel, Caden, Isaac, Angelica
 - deliver (item) in a certain amount of time
 - make customers happy with quick delivery, win awards and upgrades
 - streets in the city
+- enemies fight you to try and delay deliveries
 - guns
 - upgrades include better guns, more gas, more nitro, etc.
