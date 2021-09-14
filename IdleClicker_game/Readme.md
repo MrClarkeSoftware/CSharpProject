@@ -1,1 +1,2 @@
-Idle Clicker
+Idle Clicker Game
+Trevor, Ethan 
