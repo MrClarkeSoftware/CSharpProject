@@ -1,1 +1,1 @@
-Idle CLicker
+Idle Clicker
