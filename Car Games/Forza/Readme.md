@@ -1,7 +1,8 @@
-Cars
+Nathan, Angelica, Caden, Joel, Isaac
 
-Micheal Scott easter eggs 
-travis scott is the driver
+
 - Environment adventure game with driving mechanics and maybe side quests (similar to forza)
-lightning mcqueen skin
- 
+- lightning mcqueen decal
+- michael scott decal
+- complete tasks to level up and win limited edition decals
+- side quests
