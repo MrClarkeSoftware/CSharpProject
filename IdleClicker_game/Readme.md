@@ -1,5 +1,6 @@
 Idle Clicker
-Jared Thompson
-Gavin Schulze 
-Suotjhi Phanthadeth 
--pretty self explanatory, its an idle clicker game that saves your progress when you exit the game so you don't have to restart everytime when you open the game.
+A game that you click on somthing to obtain points. Then you use those ponits to collet other items.
+Trevor, Ethan, Blaine, Jett
+
+
+
