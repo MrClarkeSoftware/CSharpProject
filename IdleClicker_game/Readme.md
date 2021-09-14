@@ -3,4 +3,4 @@ Idle Clicker
 
 
 
-Jared Thompson
+
