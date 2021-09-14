@@ -1,2 +1,2 @@
 Idle Clicker Game
-Trevor, Ethan 
+Trevor, Ethan , Blaine , Jett
