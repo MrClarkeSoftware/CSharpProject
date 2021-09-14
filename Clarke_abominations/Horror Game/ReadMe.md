@@ -1,2 +1,3 @@
 Clark Horror Game 
-Francesca
+Autumn
+Arjola
