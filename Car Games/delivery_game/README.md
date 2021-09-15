@@ -1,6 +1,6 @@
 # Delivery Shooter Game
 
-### Team Members: Nathan, Joel, Caden, Isaac, Angelica
+### Team Members: Angelica, Isaac, Caden, Joel, Nathan, Jackson, Kyle J, Arjola
 
 - 2D
 - deliver (item) in a certain amount of time
