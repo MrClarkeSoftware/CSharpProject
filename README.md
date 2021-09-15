@@ -8,7 +8,7 @@ Add some sort of driving (caden, Angelica)
 
 Text based game (Gavin, Tushaar, Maizin, Connor)
 
-### [Idle Clicker Game](https://github.com/MrClarkeSoftware/CSharpProject/tree/main/IdleClicker_game)
+#### [Idle Clicker Game](https://github.com/MrClarkeSoftware/CSharpProject/tree/main/IdleClicker_game)
 
 Platformer / Adventure Game (nathan, caden, kaeden G, {Matthew, Bobby, David} Chris, Kaden Garrison.)
 
