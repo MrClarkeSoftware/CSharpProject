@@ -28,8 +28,6 @@ run three but clarke abominations as characters - (Danica, Aaron, Jackson, Danie
 
 Sleeping Game (Jett, Tushaar, Maizin)
 
-Video game
-
 make circle k game 
 
 Dababy Game(Chris)
