@@ -1,7 +1,8 @@
-# Delivery Shooter Game
+# https://github.com/MrClarkeIsCool/Delivery_Shooter_Game_Project
 
-### Team Members: Nathan, Joel, Caden, Isaac, Angelica
+### Team Members: Angelica, Isaac, Caden, Joel, Nathan, Thomas
 
+Team Leader: Nathan
 - 2D
 - deliver (item) in a certain amount of time
 - make customers happy with quick delivery, win awards and upgrades
