@@ -1,6 +1,6 @@
 # https://github.com/MrClarkeIsCool/Delivery_Shooter_Game_Project
 
-### Team Members: Angelica, Isaac, Caden, Joel, Nathan, Jackson, Kyle J, Arjola
+### Team Members: Angelica, Isaac, Caden, Joel, Nathan
 
 - 2D
 - deliver (item) in a certain amount of time
