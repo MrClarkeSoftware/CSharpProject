@@ -1,7 +1,10 @@
-# Platformer / Adventure
+Adventure_game
+Team Members: Matthew David Bobby
 
-## Games
+Team leader : david
 
-- Jump King
-- Matthew David Bobby
+Ideas
+2D platformer, midevil
 
+stuff to work on
+Player attacks & scenery
